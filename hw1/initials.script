@@ -1,0 +1,21 @@
+Script started on Fri 04 Oct 2019 10:28:10 AM PDT
+]0;wonheel1@crystalcove:hw1[wonheel1@crystalcove hw1]$ gcc initials.c -Wall -ansi -o initials
+]0;wonheel1@crystalcove:hw1[wonheel1@crystalcove hw1]$ ./initials
+       WWWWWW
+ WWWWWW
+W
+ WWWWWW
+W
+ WWWWWW
+       WWWWWW
+
+LLLLLLLLLLLLL
+L
+L
+L
+L
+L
+L
+]0;wonheel1@crystalcove:hw1[wonheel1@crystalcove hw1]$ ^Dexit
+
+Script done on Fri 04 Oct 2019 10:28:21 AM PDT

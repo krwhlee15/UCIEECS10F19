@@ -1,0 +1,32 @@
+Script started on Tue 05 Nov 2019 02:10:39 PM PST
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ gcc -i[Ko mc -ansi -Wall mc.c
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ./mc
+Enter the radius of circle:  ^[[D    10
+Enter the number of points:  20
+Point No.0(x=16.803754, y=7.887659) :  IN
+Point No.1(x=15.661984, y=15.968801) :  IN
+Point No.2(x=18.232947, y=3.951027) :  OUT
+Point No.3(x=6.704455, y=15.364592) :  IN
+Point No.4(x=5.555494, y=11.079399) :  IN
+Point No.5(x=9.547941, y=12.577418) :  IN
+Point No.6(x=7.295689, y=10.268018) :  IN
+Point No.7(x=19.044595, y=18.323901) :  OUT
+Point No.8(x=12.714235, y=14.345939) :  IN
+Point No.9(x=2.832051, y=12.139378) :  IN
+Point No.10(x=0.326011, y=4.857735) :  OUT
+Point No.11(x=2.744632, y=16.083535) :  IN
+Point No.12(x=3.133582, y=8.018888) :  IN
+Point No.13(x=2.595809, y=2.176176) :  OUT
+Point No.14(x=19.978490, y=4.365138) :  OUT
+Point No.15(x=10.258648, y=16.782245) :  IN
+Point No.16(x=12.252797, y=5.920632) :  IN
+Point No.17(x=12.751045, y=10.485744) :  IN
+Point No.18(x=9.871660, y=19.455500) :  IN
+Point No.19(x=5.850336, y=15.427154) :  IN
+/******In Summary******/
+Points within circle area:  15
+Points out of circle area:  5
+Pi = 3.000000
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ^Dexit
+
+Script done on Tue 05 Nov 2019 02:11:38 PM PST

@@ -1,0 +1,1 @@
+This program does simple arithmetic calculations with two numbers. It adds, multiplies, subtract, divide, then shows the sum, product, difference, quotient, and remainder of those two numbers. 

@@ -1,0 +1,29 @@
+Script started on Tue 15 Oct 2019 11:12:49 PM PDT
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ 23./volumes[29G[27@gcc volumes.c -Wall -ansi -o [65G[29Gvi weekday.c[K[29Ggcc volumes.c -Wall -ansi -o volumes
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ ./volumes
+Please enter two liquid volumes: 
+First volume, gallon(s): 1
+First volume, quart(s): 4
+First volume, pint(s): 12
+First volume, cup(s): 100
+First volume, fluid ounce(s): 67
+First volume, table spoon(s): 3
+First volume, tea spoon(s): 19
+Liquid volume 1 is 1 gallon(s), 4 quart(s), 12 pint(s), 100 cup(s), 67 fluid ounce(s), 3 table spoon(s), 19 tea spoon(s).
+It is approximately 39.027 liters.
+
+Second volume, gallon(s): 8
+Second volume, quart(s): 51
+Second volume, pint(s): 6
+Second volume, cup(s): 11
+Second volume, fluid ounce(s): 8
+Second volume, table spoon(s): 4
+Second volume, tea spoon(s): 23
+Liquid volume 2 is 8 gallon(s), 51 quart(s), 6 pint(s), 11 cup(s), 8 fluid ounce(s), 4 table spoon(s), 23 tea spoon(s).
+It is approximately 84.398 liters.
+
+The sum is 32 gallon(s), 2 quart(s), 0 pint(s), 1 cup(s), 5 fluid ounce(s), 1 table spoon(s), 0 tea spoon(s).
+It is approxtimately  123.425 liters.
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ ^Dexit
+
+Script done on Tue 15 Oct 2019 11:13:26 PM PDT

@@ -1,0 +1,1 @@
+This program receives a real number and calculates value of e to the power of the input value. It is calculated by the infinite sum of taylor expansion. The result is by precision of thousandths. 

@@ -1,0 +1,2 @@
+initials.c is the program that prints my initials "WL" in large upper-case block.
+I used printf to do that becuase it was the most basic method to print text directly.

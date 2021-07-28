@@ -1,0 +1,1 @@
+This program is an menu driven image manipulation program that does few basic digital image processing techniques. It loads image first, manipulates the image such as fliping, zooming etc., and saves it. 

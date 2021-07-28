@@ -1,0 +1,1 @@
+This program calculates the sum of two US liquid volumes, and also converts the sum of them to liters. The program converts every volumes to tea spoon, which is the lowest unit, add all of them, and converts them into upper units step by step by dividing in proper ratio. Same thing for liters. It converts teaspoons to liters by multiplying in correct ratio.

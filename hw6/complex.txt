@@ -1,0 +1,1 @@
+This is a menu driven program that performs some operations with input complex number. It can set complex number in regular format a+bi, or polar format with its magnitude and angle. It also calculates the absolute value, reciprocal, addition, substraction, multiplication, division. Rotating it by the input degree is also possible. 

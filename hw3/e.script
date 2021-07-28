@@ -1,0 +1,14 @@
+Script started on Thu 10 Oct 2019 02:39:29 PM PDT
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./volumes[29G[27@gcc volumes.c -Wall -ansi -o [65G[29G./numbers[K[29Ggcc volumes.c -Wall -ansi -o volumes[29G[27P./[38G[29G[Kgcc -[Ke.c -Wall -ansi -o e
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./e
+Please enter the real value x: 0.3
+e to the power of x is approximately 1.349859xxx
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./e
+Please enter the real value x: 0.5
+e to the power of x is approximately 1.648721xxx
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./e
+Please enter the real value x: 1.0
+e to the power of x is approximately 2.718254xxx
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ^Dexit
+
+Script done on Thu 10 Oct 2019 02:40:12 PM PDT

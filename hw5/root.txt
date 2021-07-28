@@ -1,0 +1,1 @@
+This program calculates nth root of the input number by using binary search approximation technique. The program will set the left bound and right bound, and keeps shrinking the bound checking whether the midpoint of the bound is close to the actual root of the number. The number reached will have precision of 1.0E-10.

@@ -1,0 +1,27 @@
+Script started on Tue 15 Oct 2019 11:35:20 PM PDT
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ gccc[K nu,be[K[K[Kmbers.c -ansi -Wall -o nu,b[K[Kmbers
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ ./numbers
+Please enter two numbers.
+Number 1: 5
+The first number is 5
+Number 2: 2
+The second number is 2
+The sum is 7.
+The product is 10.
+The difference is 3.
+The quotient is 2.
+The remainder is 1.
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ ./numbers
+Please enter two numbers.
+Number 1: 27
+The first number is 27
+Number 2: 42
+The second number is 42
+The sum is 69.
+The product is 1134.
+The difference is -15.
+The quotient is 0.
+The remainder is 27.
+]0;wonheel1@crystalcove:hw2[wonheel1@crystalcove hw2]$ ^Dexit
+
+Script done on Tue 15 Oct 2019 11:36:44 PM PDT

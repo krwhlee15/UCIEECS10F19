@@ -1,0 +1,26 @@
+Script started on Thu 10 Oct 2019 04:22:35 PM PDT
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ gcc weekday.c -ansi -Wall -i[Ko We[K[Kweekday
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./weekday
+Please enter a calendar date:
+Day			 d = 23
+Month			 m = 10
+Year			 y = 2019
+For the date 10/23/2019, the day of the week is 4.
+This is a Wednesday.
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./weekday[29G[27@gcc weekday.c -ansi -Wall -o [65G[29G[27P./[38G
+Please enter a calendar date:
+Day			 d = 01
+Month			 m = 01
+Year			 y = 2020
+For the date 1/1/2020, the day of the week is 4.
+This is a Wednesday.
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ./weekday
+Please enter a calendar date:
+Day			 d = 04
+Month			 m = 10
+Year			 y = 1965
+For the date 10/4/1965, the day of the week is 2.
+This is a Monday.
+]0;wonheel1@crystalcove:hw3[wonheel1@crystalcove hw3]$ ^Dexit
+
+Script done on Thu 10 Oct 2019 04:23:39 PM PDT

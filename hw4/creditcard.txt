@@ -1,0 +1,1 @@
+The program computes and prints the interest paid and the remaining balance at the end of each montly cycle. The program asks the user for the credit limit, balance on the card, APR, and the monthly payment as inputs in the beginning. At the end of the program, it shows the month and the amount on money needed to pay off all of the debt.

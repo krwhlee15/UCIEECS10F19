@@ -1,0 +1,128 @@
+Script started on Wed 06 Nov 2019 11:48:39 AM PST
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ gcc root.c -Wall -ansi -o root
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ./root
+Please input a positive number (1 to 10000): 42
+Please input the value of integer n (n>0): 2
+Iteration 1: the square root of 42.0000000000 is approximately 21.0000000000
+Iteration 2: the square root of 42.0000000000 is approximately 10.5000000000
+Iteration 3: the square root of 42.0000000000 is approximately 5.2500000000
+Iteration 4: the square root of 42.0000000000 is approximately 7.8750000000
+Iteration 5: the square root of 42.0000000000 is approximately 6.5625000000
+Iteration 6: the square root of 42.0000000000 is approximately 5.9062500000
+Iteration 7: the square root of 42.0000000000 is approximately 6.2343750000
+Iteration 8: the square root of 42.0000000000 is approximately 6.3984375000
+Iteration 9: the square root of 42.0000000000 is approximately 6.4804687500
+Iteration 10: the square root of 42.0000000000 is approximately 6.5214843750
+Iteration 11: the square root of 42.0000000000 is approximately 6.5009765625
+Iteration 12: the square root of 42.0000000000 is approximately 6.4907226562
+Iteration 13: the square root of 42.0000000000 is approximately 6.4855957031
+Iteration 14: the square root of 42.0000000000 is approximately 6.4830322266
+Iteration 15: the square root of 42.0000000000 is approximately 6.4817504883
+Iteration 16: the square root of 42.0000000000 is approximately 6.4811096191
+Iteration 17: the square root of 42.0000000000 is approximately 6.4807891846
+Iteration 18: the square root of 42.0000000000 is approximately 6.4806289673
+Iteration 19: the square root of 42.0000000000 is approximately 6.4807090759
+Iteration 20: the square root of 42.0000000000 is approximately 6.4807491302
+Iteration 21: the square root of 42.0000000000 is approximately 6.4807291031
+Iteration 22: the square root of 42.0000000000 is approximately 6.4807391167
+Iteration 23: the square root of 42.0000000000 is approximately 6.4807441235
+Iteration 24: the square root of 42.0000000000 is approximately 6.4807416201
+Iteration 25: the square root of 42.0000000000 is approximately 6.4807403684
+Iteration 26: the square root of 42.0000000000 is approximately 6.4807409942
+Iteration 27: the square root of 42.0000000000 is approximately 6.4807406813
+Iteration 28: the square root of 42.0000000000 is approximately 6.4807408378
+Iteration 29: the square root of 42.0000000000 is approximately 6.4807407595
+Iteration 30: the square root of 42.0000000000 is approximately 6.4807407204
+Iteration 31: the square root of 42.0000000000 is approximately 6.4807407008
+Iteration 32: the square root of 42.0000000000 is approximately 6.4807406911
+Iteration 33: the square root of 42.0000000000 is approximately 6.4807406960
+Iteration 34: the square root of 42.0000000000 is approximately 6.4807406984
+Iteration 35: the square root of 42.0000000000 is approximately 6.4807406996
+Iteration 36: the square root of 42.0000000000 is approximately 6.4807406990
+Iteration 37: the square root of 42.0000000000 is approximately 6.4807406987
+Iteration 38: the square root of 42.0000000000 is approximately 6.4807406986
+Iteration 39: the square root of 42.0000000000 is approximately 6.4807406985
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ./root
+Please input a positive number (1 to 10000): 42  28
+Please input the value of integer n (n>0): 2
+Iteration 1: the square root of 28.0000000000 is approximately 14.0000000000
+Iteration 2: the square root of 28.0000000000 is approximately 7.0000000000
+Iteration 3: the square root of 28.0000000000 is approximately 3.5000000000
+Iteration 4: the square root of 28.0000000000 is approximately 5.2500000000
+Iteration 5: the square root of 28.0000000000 is approximately 6.1250000000
+Iteration 6: the square root of 28.0000000000 is approximately 5.6875000000
+Iteration 7: the square root of 28.0000000000 is approximately 5.4687500000
+Iteration 8: the square root of 28.0000000000 is approximately 5.3593750000
+Iteration 9: the square root of 28.0000000000 is approximately 5.3046875000
+Iteration 10: the square root of 28.0000000000 is approximately 5.2773437500
+Iteration 11: the square root of 28.0000000000 is approximately 5.2910156250
+Iteration 12: the square root of 28.0000000000 is approximately 5.2978515625
+Iteration 13: the square root of 28.0000000000 is approximately 5.2944335938
+Iteration 14: the square root of 28.0000000000 is approximately 5.2927246094
+Iteration 15: the square root of 28.0000000000 is approximately 5.2918701172
+Iteration 16: the square root of 28.0000000000 is approximately 5.2914428711
+Iteration 17: the square root of 28.0000000000 is approximately 5.2916564941
+Iteration 18: the square root of 28.0000000000 is approximately 5.2915496826
+Iteration 19: the square root of 28.0000000000 is approximately 5.2914962769
+Iteration 20: the square root of 28.0000000000 is approximately 5.2915229797
+Iteration 21: the square root of 28.0000000000 is approximately 5.2915096283
+Iteration 22: the square root of 28.0000000000 is approximately 5.2915029526
+Iteration 23: the square root of 28.0000000000 is approximately 5.2914996147
+Iteration 24: the square root of 28.0000000000 is approximately 5.2915012836
+Iteration 25: the square root of 28.0000000000 is approximately 5.2915021181
+Iteration 26: the square root of 28.0000000000 is approximately 5.2915025353
+Iteration 27: the square root of 28.0000000000 is approximately 5.2915027440
+Iteration 28: the square root of 28.0000000000 is approximately 5.2915026397
+Iteration 29: the square root of 28.0000000000 is approximately 5.2915025875
+Iteration 30: the square root of 28.0000000000 is approximately 5.2915026136
+Iteration 31: the square root of 28.0000000000 is approximately 5.2915026266
+Iteration 32: the square root of 28.0000000000 is approximately 5.2915026201
+Iteration 33: the square root of 28.0000000000 is approximately 5.2915026234
+Iteration 34: the square root of 28.0000000000 is approximately 5.2915026217
+Iteration 35: the square root of 28.0000000000 is approximately 5.2915026225
+Iteration 36: the square root of 28.0000000000 is approximately 5.2915026221
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ./root
+Please input a positive number (1 to 10000): 42
+Please input the value of integer n (n>0): 5
+Iteration 1: the 5th root of 42.0000000000 is approximately 21.0000000000
+Iteration 2: the 5th root of 42.0000000000 is approximately 10.5000000000
+Iteration 3: the 5th root of 42.0000000000 is approximately 5.2500000000
+Iteration 4: the 5th root of 42.0000000000 is approximately 2.6250000000
+Iteration 5: the 5th root of 42.0000000000 is approximately 1.3125000000
+Iteration 6: the 5th root of 42.0000000000 is approximately 1.9687500000
+Iteration 7: the 5th root of 42.0000000000 is approximately 2.2968750000
+Iteration 8: the 5th root of 42.0000000000 is approximately 2.1328125000
+Iteration 9: the 5th root of 42.0000000000 is approximately 2.0507812500
+Iteration 10: the 5th root of 42.0000000000 is approximately 2.0917968750
+Iteration 11: the 5th root of 42.0000000000 is approximately 2.1123046875
+Iteration 12: the 5th root of 42.0000000000 is approximately 2.1020507812
+Iteration 13: the 5th root of 42.0000000000 is approximately 2.1071777344
+Iteration 14: the 5th root of 42.0000000000 is approximately 2.1097412109
+Iteration 15: the 5th root of 42.0000000000 is approximately 2.1110229492
+Iteration 16: the 5th root of 42.0000000000 is approximately 2.1116638184
+Iteration 17: the 5th root of 42.0000000000 is approximately 2.1119842529
+Iteration 18: the 5th root of 42.0000000000 is approximately 2.1118240356
+Iteration 19: the 5th root of 42.0000000000 is approximately 2.1117439270
+Iteration 20: the 5th root of 42.0000000000 is approximately 2.1117839813
+Iteration 21: the 5th root of 42.0000000000 is approximately 2.1118040085
+Iteration 22: the 5th root of 42.0000000000 is approximately 2.1117939949
+Iteration 23: the 5th root of 42.0000000000 is approximately 2.1117889881
+Iteration 24: the 5th root of 42.0000000000 is approximately 2.1117864847
+Iteration 25: the 5th root of 42.0000000000 is approximately 2.1117852330
+Iteration 26: the 5th root of 42.0000000000 is approximately 2.1117858589
+Iteration 27: the 5th root of 42.0000000000 is approximately 2.1117855459
+Iteration 28: the 5th root of 42.0000000000 is approximately 2.1117857024
+Iteration 29: the 5th root of 42.0000000000 is approximately 2.1117857806
+Iteration 30: the 5th root of 42.0000000000 is approximately 2.1117857415
+Iteration 31: the 5th root of 42.0000000000 is approximately 2.1117857611
+Iteration 32: the 5th root of 42.0000000000 is approximately 2.1117857709
+Iteration 33: the 5th root of 42.0000000000 is approximately 2.1117857660
+Iteration 34: the 5th root of 42.0000000000 is approximately 2.1117857635
+Iteration 35: the 5th root of 42.0000000000 is approximately 2.1117857647
+Iteration 36: the 5th root of 42.0000000000 is approximately 2.1117857654
+Iteration 37: the 5th root of 42.0000000000 is approximately 2.1117857651
+Iteration 38: the 5th root of 42.0000000000 is approximately 2.1117857649
+Iteration 39: the 5th root of 42.0000000000 is approximately 2.1117857650
+]0;wonheel1@crystalcove:hw5[wonheel1@crystalcove hw5]$ ^Dexit
+
+Script done on Wed 06 Nov 2019 11:49:24 AM PST

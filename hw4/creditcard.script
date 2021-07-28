@@ -1,0 +1,25 @@
+Script started on Mon 28 Oct 2019 07:27:52 PM PDT
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ gcc creditcard.c -Wall -ansi -o creditcard
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ ./creditcard
+Enter the crdit limit         : 5000
+Enter the balance on the card : 2000
+Enter the APR                 : 14.99
+Enter the montly payment      : 200
+
+Month  Balance    Interest    Payment    New Balance
+ 1     2000.00    24.98       200.00     1824.98
+ 2     1824.98    22.80       200.00     1647.78
+ 3     1647.78    20.58       200.00     1468.36
+ 4     1468.36    18.34       200.00     1286.71
+ 5     1286.71    16.07       200.00     1102.78
+ 6     1102.78    13.78       200.00      916.55
+ 7      916.55    11.45       200.00      728.00
+ 8      728.00     9.09       200.00      537.10
+ 9      537.10     6.71       200.00      343.81
+10      343.81     4.29       200.00      148.10
+11      148.10     1.85       149.95        0.00
+
+It will take $2149.95 over 11 month to pay off this debt.
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ ^Dexit
+
+Script done on Mon 28 Oct 2019 07:28:40 PM PDT

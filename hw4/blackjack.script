@@ -1,0 +1,63 @@
+Script started on Mon 28 Oct 2019 07:44:52 PM PDT
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ vi [K[K1./blackjack[29G[29@gcc blackjack.c -Wall -ansi -o [69G
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ gcc blackjack.c -Wall -ansi -o blackjack[29G1[K./blackjack[31Gcreditcard[31Gblackjack[K
+
+**********************************
+** Welcome to EECS10 BlackJack! **
+**********************************
+Your first card is:K
+Do you want another card?
+Type 1 for Yes, 0 for No:
+1
+Your next card is:9
+Your combined value is:22
+Sorry. You lose!
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ ./blackjack
+
+**********************************
+** Welcome to EECS10 BlackJack! **
+**********************************
+Your first card is:7
+Do you want another card?
+Type 1 for Yes, 0 for No:
+1
+Your next card is:Q
+Your combined value is:19
+Do you want another card?
+Type 1 for Yes, 0 for No:
+0
+Dealer draws another card.
+Dealer's card is:6
+Dealer's value is 6, you have 19.
+Dealer draws another card.
+Dealer's card is:3
+Dealer's value is 9, you have 19.
+Dealer draws another card.
+Dealer's card is:Q
+Dealer's value is 21, you have 19.
+Sorry. You lose!
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ ./blackjack
+
+**********************************
+** Welcome to EECS10 BlackJack! **
+**********************************
+Your first card is:A
+Do you want it to be 1 or 11? 11
+Do you want another card?
+Type 1 for Yes, 0 for No:
+1
+Your next card is:7
+Your combined value is:18
+Do you want another card?
+Type 1 for Yes, 0 for No:
+0
+Dealer draws another card.
+Dealer's card is:10
+Dealer's value is 10, you have 18.
+Dealer draws another card.
+Dealer's card is:K
+Dealer's value is 23, you have 18.
+Dealer loses. You win!
+]0;wonheel1@crystalcove:hw4[wonheel1@crystalcove hw4]$ ^Dexit
+
+Script done on Mon 28 Oct 2019 07:45:19 PM PDT

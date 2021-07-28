@@ -1,0 +1,172 @@
+Script started on Thu 07 Nov 2019 02:06:55 PM PST
+]0;wonheel1@crystalcove:hw6[wonheel1@crystalcove hw6]$ gcc complex.c -ansi -Wall -o complex -lm
+]0;wonheel1@crystalcove:hw6[wonheel1@crystalcove hw6]$ ./complex
+Welcome to my complex number calculator!
+Enter a complex number.
+Enter the real part: 3.0
+Enter the imaginary part: 5.0
+
+Current number is 3.000 + 5.000i
+Polar Notation: 5.831 @ 59.036 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 5
+
+Enter the real part of the operand: 4.3
+Enter the imagniary part of the operand: 1.44
+
+Current number is 7.300 + 6.440i
+Polar Notation: 9.735 @ 41.418 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 6
+
+Enter the real part of the operand: 6.0
+Enter the imagniary part of the operand: 6.66
+
+Current number is 1.300 + -0.220i
+Polar Notation: 1.318 @ -9.605 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 2
+
+Enter the magnitude: 7.0
+Enter the phase: 45
+
+Current number is 4.950 + 4.950i
+Polar Notation: 7.000 @ 45.000 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 7
+
+Enter the real part of the operand: 5.5
+Enter the imagniary part of the operand: 5.3
+
+Current number is 0.990 + 32.470i
+Polar Notation: 32.485 @ 88.254 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 8
+
+Enter the real part of the operand: 8
+Enter the imagniary part of the operand: 17
+
+Current number is 1.586 + 0.659i
+Polar Notation: 1.718 @ 22.576 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 3
+
+The absolute value of the current number is 1.718
+Current number is 1.586 + 0.659i
+Polar Notation: 1.718 @ 22.576 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 4
+
+Current number is 0.538 + -0.223i
+Polar Notation: 0.582 @ -22.576 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 9
+
+Enter the degrees you want to rotate: 45
+
+Current number is 0.538 + 0.222i
+Polar Notation: 0.582 @ 22.424 degrees
+
+(1) Set the complex number in regular format
+(2) Set the complex number in polar format
+(3) Compute the absolute value of the number
+(4) Compute the reciprocal of the number
+(5) Add another complex number
+(6) Substract another complex number
+(7) Multiply by another complex number
+(8) Divide by another complex number
+(9) "Rotate" the number by N degrees counterclockwise
+(10) Exit
+
+Enter your choice: 10
+]0;wonheel1@crystalcove:hw6[wonheel1@crystalcove hw6]$ ^Dexit
+
+Script done on Thu 07 Nov 2019 02:10:02 PM PST
